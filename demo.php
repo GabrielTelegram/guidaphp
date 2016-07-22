@@ -10,7 +10,7 @@
 require 'class-http-request.php';
 
 $api = "bot";
-$api .="111111111akskfiwkcjakckaoekfiakkwkzk";
+$api .="TUOTOKENRICAVABILEDA @botfather";
 global $api;
 
 $content = $_POST['input'];
