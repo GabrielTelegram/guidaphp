@@ -10,7 +10,7 @@
 require 'class-http-request.php';
 
 $api = "bot";
-$api .="TUOTOKENRICAVABILEDA @botfather";
+$api .="TUO TOKEN RICAVABILE DA @botfather (telegram.me/botfather";
 global $api;
 
 $content = $_POST['input'];
